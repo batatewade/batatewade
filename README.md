@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing CHartered ACcountancy and learning various strategies for stock markets
 - 💞️ I’m looking to collaborate on developing stock market and learning python
 - 📫 You can reach me via Instagram : @desaiabhishek09
-- 📫 You can also reach me via email : abhishek desai.71271@gmail.com
+- 📫 You can also reach me via email : abhishekdesai.71271@gmail.com
 
 <!---
 batatewade/batatewade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
